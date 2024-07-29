@@ -1,3 +1,4 @@
+true
 ---
 title: Self review checklist
 intro: "Before you submit your documentation pull request for review, you should first review it yourself."
